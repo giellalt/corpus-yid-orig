@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///home/kiwibird/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a1-py2.7.egg/corpustools/xslt/common.xsl"/>
@@ -93,17 +93,17 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="OmWebbplatsen.html" xml:lang="eng"/>
-	<parallel_text location="OmWebbplatsen.html" xml:lang="fin"/>
-	<parallel_text location="OmWebbplatsen.html" xml:lang="sma"/>
-	<parallel_text location="OmWebbplatsen.html" xml:lang="sme"/>
-	<parallel_text location="OmWebbplatsen.html" xml:lang="swe"/>
-	<parallel_text xml:lang="fit" location="OmWebbplatsen.html"/>
-	<parallel_text xml:lang="rmf" location="OmWebbplatsen.html"/>
-	<parallel_text xml:lang="rmn" location="OmWebbplatsen.html"/>
-	<parallel_text xml:lang="rmu" location="OmWebbplatsen.html"/>
-	<parallel_text xml:lang="rmy-rka" location="OmWebbplatsen.html"/>
-	<parallel_text xml:lang="rmy-rlo" location="OmWebbplatsen.html"/>
+	<parallel_text location="omwebbplatsen.html" xml:lang="eng"/>
+	<parallel_text location="omwebbplatsen.html" xml:lang="fin"/>
+	<parallel_text location="omwebbplatsen.html" xml:lang="sma"/>
+	<parallel_text location="omwebbplatsen.html" xml:lang="sme"/>
+	<parallel_text location="omwebbplatsen.html" xml:lang="swe"/>
+	<parallel_text xml:lang="fit" location="omwebbplatsen.html"/>
+	<parallel_text xml:lang="rmf" location="omwebbplatsen.html"/>
+	<parallel_text xml:lang="rmn" location="omwebbplatsen.html"/>
+	<parallel_text xml:lang="rmu" location="omwebbplatsen.html"/>
+	<parallel_text xml:lang="rmy-rka" location="omwebbplatsen.html"/>
+	<parallel_text xml:lang="rmy-rlo" location="omwebbplatsen.html"/>
 </xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
