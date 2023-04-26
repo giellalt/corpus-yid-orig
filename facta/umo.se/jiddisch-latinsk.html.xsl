@@ -176,11 +176,11 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
-    <parallel_text location="resanderomska.html" xml:lang="rmu"/>
-<parallel_text location="romska-kalderash.html" xml:lang="rmy-rka"/>
-<parallel_text location="romska-lovara.html" xml:lang="rmy-rlo"/>
-<parallel_text location="romska-kale.html" xml:lang="rmf"/>
-<parallel_text location="romska-arli.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmu" location="resanderomska.html"/>
+<parallel_text xml:lang="rmy-rka" location="romska-kalderash.html"/>
+<parallel_text xml:lang="rmy-rlo" location="romska-lovara.html"/>
+<parallel_text xml:lang="rmf" location="romska-kale.html"/>
+<parallel_text xml:lang="rmn" location="romska-arli.html"/>
 </xsl:variable>
 
     <!--

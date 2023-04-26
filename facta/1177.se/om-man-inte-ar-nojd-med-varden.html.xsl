@@ -176,11 +176,11 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/>
-<parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/>
-<parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/>
-<parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/>
-<parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/>
+    <parallel_text xml:lang="rmy-rka" location="om-man-inte-ar-nojd-med-varden.html"/>
+<parallel_text xml:lang="rmn" location="om-man-inte-ar-nojd-med-varden.html"/>
+<parallel_text xml:lang="rmu" location="om-man-inte-ar-nojd-med-varden.html"/>
+<parallel_text xml:lang="rmy-rlo" location="om-man-inte-ar-nojd-med-varden.html"/>
+<parallel_text xml:lang="rmf" location="om-man-inte-ar-nojd-med-varden.html"/>
 </xsl:variable>
 
     <!--

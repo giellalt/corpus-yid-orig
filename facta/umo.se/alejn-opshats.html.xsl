@@ -176,11 +176,11 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="sjalvkansla.html"/>
-    <parallel_text location="iri-zor.html" xml:lang="rmy-rka"/>
-<parallel_text location="korkorioset.html" xml:lang="rmn"/>
-<parallel_text location="soluskansla.html" xml:lang="rmu"/>
-<parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/>
-<parallel_text location="iegohoiba.html" xml:lang="rmf"/>
+    <parallel_text xml:lang="rmy-rka" location="iri-zor.html"/>
+<parallel_text xml:lang="rmn" location="korkorioset.html"/>
+<parallel_text xml:lang="rmu" location="soluskansla.html"/>
+<parallel_text xml:lang="rmy-rlo" location="manuesko-aaripe-sjalvkansla.html"/>
+<parallel_text xml:lang="rmf" location="iegohoiba.html"/>
 </xsl:variable>
 
     <!--

@@ -176,11 +176,11 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="f12.html"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-<parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-<parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-<parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-<parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
+    <parallel_text xml:lang="rmy-rka" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
+<parallel_text xml:lang="rmn" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
+<parallel_text xml:lang="rmu" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
+<parallel_text xml:lang="rmy-rlo" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
+<parallel_text xml:lang="rmf" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
 </xsl:variable>
 
     <!--

@@ -176,7 +176,7 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
-    <parallel_text location="hitta-ratt-i-sjukvarden.html" xml:lang="rmu"/>
+    <parallel_text xml:lang="rmu" location="hitta-ratt-i-sjukvarden.html"/>
 </xsl:variable>
 
     <!--
